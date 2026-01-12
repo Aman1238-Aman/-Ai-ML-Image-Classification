@@ -1,4 +1,4 @@
-I-ML Image Classification
+AI-ML Image Classification
 
 An image classification project built using Artificial Intelligence and Machine Learning techniques to automatically classify images into predefined categories.
 The project demonstrates how machine learning models can learn visual patterns from data and make accurate predictions on unseen images.
